@@ -1,0 +1,1 @@
+the Files in this folder use command like head, tail,cat, -c, rev etc to read over and print out the output as per requied
