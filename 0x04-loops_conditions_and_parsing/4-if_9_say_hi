@@ -1,22 +1,15 @@
 #!/usr/bin/env bash
-# Bash script that displays "Holberton School" 10 times and "Hi" in 9th iteration times
+# Displays "Holberton School" 10 times using a while loop.
+#   On the 9th iteration, displays "Hi" before "Holberton School".
 
-cont=0
+count=0
 
-while [ $cont -lt 10 ];
-
+while [ $count -lt 10 ]
 do
-
-    if [ $cont -eq 9 ]
-    
-    then
-    
-echo "Hi"
-
-    fi
-    
-    echo "Best School"
-    
-    let cont=cont+1
-    
+  if [ $count -eq 9 ]
+  then
+    echo "Hi"
+  fi
+  echo "Best School"
+  (( count++ ))
 done
