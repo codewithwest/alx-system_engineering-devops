@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # displays until loop Holberton School 10 times
 
 COUNT=0

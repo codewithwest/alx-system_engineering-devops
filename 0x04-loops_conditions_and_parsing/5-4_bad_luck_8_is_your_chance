@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # script displaying " good luck" "Holberton School" "bad luck"
 
 CONTER=0

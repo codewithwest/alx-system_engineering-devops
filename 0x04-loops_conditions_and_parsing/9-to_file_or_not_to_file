@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 #  Script bash gives you information about the holbertonschool file
 
 if [ -e school ]

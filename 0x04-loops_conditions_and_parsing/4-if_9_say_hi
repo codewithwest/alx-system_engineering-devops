@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Bash script that displays "Holberton School" 10 times and "Hi" in 9th iteration times
 
 cont=0

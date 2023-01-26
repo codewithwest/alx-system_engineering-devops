@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 #  Script bach FizzBuzz
 
 conter=1
